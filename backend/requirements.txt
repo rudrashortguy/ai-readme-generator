@@ -1,0 +1,12 @@
+fastapi[standard]
+httpx
+python-multipart
+pydantic-settings
+diskcache
+pytest
+pytest-cov
+respx
+pytest-asyncio
+ruff
+mypy
+bandit
